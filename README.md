@@ -1,4 +1,4 @@
 # Lerp
-An attempt at creating lerping.
-Every mathematical function was taken from wikipedia or from mathexchange.
-I am using only tkintercanvas for displaying the data.
+An attempt at creating lerping.</br>
+Every mathematical function was taken from wikipedia or from mathexchange.</br>
+I am using only tkinter canvas for displaying the data.</br>
